@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirboroomand
 - 👀 I’m interested in java
-- 🌱 I’m currently learning gava
+- 🌱 I’m currently learning java and php
 - 💞️ I’m looking to collaborate on java
 - 📫 I need go to Canada,can you help me?
 
